@@ -3,7 +3,7 @@ description: "basic navigation rail view for juneview"
 #publish_to: 'none'
 repository: https://github.com/juneview-songdo/navigation_rail_view
 
-version: 1.0.0+1
+version: 1.0.3
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
